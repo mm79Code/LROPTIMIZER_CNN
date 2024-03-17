@@ -29,3 +29,9 @@ Before starting, ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository:**
+2. **Navigate to the project directory:**
+3. **Install the required dependencies:**
+
+## Contributing
+
+Contributions are highly welcome! If you have suggestions to improve this project, please fork the repo and create a pull request or open an issue with your ideas.
